@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MENUTOP>
+  <MENUNODE>
+    <ID>1</ID>
+    <NAME>Home</NAME>
+    <URL>Default.aspx</URL>
+    <HELP>Display Home page.</HELP>
+    <isCHILD>0</isCHILD>
+    <SORT>1</SORT>
+  </MENUNODE>
+  <MENUNODE>
+    <ID>2</ID>
+    <NAME>About</NAME>
+    <URL>Views/About.aspx</URL>
+    <HELP>Display About page.</HELP>
+    <isCHILD>0</isCHILD>
+    <SORT>3</SORT>
+  </MENUNODE>
+  <MENUNODE>
+    <ID>3</ID>
+    <NAME>Administration</NAME>
+    <URL></URL>
+    <HELP>Administration Menu</HELP>
+    <isCHILD>0</isCHILD>
+    <SORT>2</SORT>
+  </MENUNODE>
+  <MENUNODE>
+    <ID>4</ID>
+    <NAME>Employee</NAME>
+    <URL>Views/Employee.aspx</URL>
+    <HELP>Display Employess.</HELP>
+    <isCHILD>1</isCHILD>
+    <SORT>1</SORT>
+  </MENUNODE>
+  <MENUNODE>
+    <ID>5</ID>
+    <NAME>Products</NAME>
+    <URL>Views/Products.aspx</URL>
+    <HELP>Display Products.</HELP>
+    <isCHILD>1</isCHILD>
+    <SORT>2</SORT>
+  </MENUNODE>
+        
+</MENUTOP>

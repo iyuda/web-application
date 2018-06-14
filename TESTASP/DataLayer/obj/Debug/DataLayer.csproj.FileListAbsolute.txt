@@ -1,0 +1,15 @@
+E:\ProjectNet\TESTASP\DataLayer\bin\Debug\DataLayer.dll
+E:\ProjectNet\TESTASP\DataLayer\bin\Debug\DataLayer.pdb
+E:\ProjectNet\TESTASP\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+E:\ProjectNet\TESTASP\DataLayer\obj\Debug\DataLayer.dll
+E:\ProjectNet\TESTASP\DataLayer\obj\Debug\DataLayer.pdb
+C:\Work Area\TESTASP\DataLayer\bin\Debug\DataLayer.dll
+C:\Work Area\TESTASP\DataLayer\bin\Debug\DataLayer.pdb
+C:\Work Area\TESTASP\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Work Area\TESTASP\DataLayer\obj\Debug\DataLayer.dll
+C:\Work Area\TESTASP\DataLayer\obj\Debug\DataLayer.pdb
+C:\Gena_ASPTutoring\TESTASP\DataLayer\bin\Debug\DataLayer.dll
+C:\Gena_ASPTutoring\TESTASP\DataLayer\bin\Debug\DataLayer.pdb
+C:\Gena_ASPTutoring\TESTASP\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Gena_ASPTutoring\TESTASP\DataLayer\obj\Debug\DataLayer.dll
+C:\Gena_ASPTutoring\TESTASP\DataLayer\obj\Debug\DataLayer.pdb

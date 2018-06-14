@@ -1,0 +1,94 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Adventure14.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Adventure Works</title>
+   <meta http-equiv="Expires" content="0" />
+    <meta http-equiv="Cache-Control" content="no-cache" />
+    <meta http-equiv="Pragma" content="no-cache" />
+	
+    <script type="text/javascript">history.forward();</script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <link href="Styles/Site.css" rel="stylesheet" />
+
+    <script type="text/javascript">
+
+        function UserWelcome(userName)
+        {
+           alert ("Hello " + userName);
+      
+        }
+
+        function LogOutApp()
+        {
+            var lo = confirm("Are you sure? \n This will close the application.");
+            var txt = document.getElementById("txtCommand");
+           
+            if(lo == true)
+            {   
+                txt.value = "LogOut";
+                return true;
+            }
+            else
+            {
+                txt.value = "";
+                return false;
+            }
+        }
+
+    </script>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <table style="width: 100%;" cellspacing="0" cellpadding="0">
+            <tr>              
+                <td class="TopHeader"><img alt="AdwentureWorks" src="../Images/LogoAW.png" width="100" height="40" />&nbsp;&nbsp; Adventrure Works LTD.</td>
+            </tr>
+            <tr>
+                <td>
+                    <table style="width: 100%;" cellspacing="0" cellpadding="0">
+                        <tr class="menuLine">
+                            <td style="width:50%;">
+                                <asp:Menu ID="topMenu" runat="server"  Orientation="Horizontal" StaticSubMenuIndent="10px" BackColor="#FFFBD6" DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="1.5 em" ForeColor="#990000">
+                                    <DynamicHoverStyle BackColor="#990000" ForeColor="White" />
+                                    <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                                    <DynamicMenuStyle BackColor="#FFCC00" />
+                                    <DynamicSelectedStyle BackColor="#FFCC66" />
+                                    <StaticHoverStyle BackColor="#990000" ForeColor="White" />
+                                    <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                                    <StaticSelectedStyle BackColor="#FFCC66" />
+                                </asp:Menu> <input id="txtCommand" type="hidden" runat="server" />
+                            </td>
+                            <td id="topInfo" runat="server" class="rightTopInfo"></td>
+                            <td id="logOut" runat="server" style="width:85px;" align="center" ></td>
+                        </tr>
+                    </table>               
+                </td>
+                
+            </tr>
+            <tr>
+                <td align="center">
+                    <div class="containerBig">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td id="tdFooter" class="footer" runat="server"></td>
+            </tr>
+        </table>
+    
+        
+
+    </form>
+</body>
+</html>

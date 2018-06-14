@@ -1,0 +1,74 @@
+﻿@model MVC_Demo1.Models.PersonModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+
+       
+
+    });
+
+    function GetPersonList()
+    {
+        var key = $("#StateList").val();
+        var target = document.getElementById('divGrid')
+        var spinner = new Spinner(opts).spin(target);
+        $.ajax({
+            url: '@Url.Action("GetSearh", "Person")',
+            type: "GET",
+            contentType: 'application/json',
+            data: { 'state': key },
+            dataType: 'html',
+            success: function (result) {
+                $("#divGrid").html(result);
+                Lobibox.notify('info', {
+                    size: 'mini',
+                    msg: 'Sucessfully run AJAX call.'
+                });
+            },
+            error: function (request, status, error) {
+                spinner.stop();
+                alert(error);
+            }
+        });
+    }
+
+</script>
+
+
+<br /><br /><br /><br />
+<div class="container col-md-12">
+    <div class="panel panel-default">
+        <div class="panel-heading"><h2>@ViewBag.MenuTitle</h2></div>
+        <div class="panel-body">
+            <div class="panel panel-default">
+                 <div class="panel-body">
+                     <table style="width:auto%">
+                         <tr>
+                             <td class="lableHeader">Select State:</td>
+                             <td class="controlCell">
+                                 @Html.DropDownList("StateList", new SelectList(Model.getComboStateList, "Value", "Text"), "-- Select State --", new { @class = "form-control" })
+                             </td>
+                             <td class="controlCell">
+                                 <button type="button" class="btn btn-primary" style="width:100px;" id="btnSearch" onclick="GetPersonList()">
+                                     <span class="glyphicon glyphicon-zoom-in" id="spanBtn">  Search</span>
+                                 </button>
+                             </td>
+                             <td style="width:700px; text-align:right;">
+                                 <span class="countCell" id="spanTotal" ></span>
+                             </td>
+                         </tr>
+                     </table>
+                 </div>
+            </div>
+            <div class="row" id="divGrid">
+                @Html.Partial("~/Views/Person/_GridResult.cshtml", Model)
+            </div>
+        </div>
+
+    </div>
+</div>

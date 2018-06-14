@@ -1,0 +1,5 @@
+E:\ProjectNet\Adventure14\AdventureDataLayer\bin\Debug\AdventureDataLayer.dll
+E:\ProjectNet\Adventure14\AdventureDataLayer\bin\Debug\AdventureDataLayer.pdb
+E:\ProjectNet\Adventure14\AdventureDataLayer\obj\Debug\AdventureDataLayer.csprojResolveAssemblyReference.cache
+E:\ProjectNet\Adventure14\AdventureDataLayer\obj\Debug\AdventureDataLayer.dll
+E:\ProjectNet\Adventure14\AdventureDataLayer\obj\Debug\AdventureDataLayer.pdb

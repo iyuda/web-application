@@ -1,0 +1,105 @@
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\ApplicationInsights.config
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\roslyn\csc.exe
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\roslyn\System.Collections.Immutable.dll
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\roslyn\System.Reflection.Metadata.dll
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\roslyn\vbc.exe
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\roslyn\VBCSCompiler.exe
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\roslyn\VBCSCompiler.exe.config
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\ASPPoliticalReview.dll.config
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\ASPPoliticalReview.dll
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\ASPPoliticalReview.pdb
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.DependencyCollector.dll
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.Web.dll
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.WindowsServer.dll
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\Microsoft.ApplicationInsights.dll
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.DependencyCollector.xml
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.Web.xml
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.WindowsServer.xml
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\Microsoft.ApplicationInsights.xml
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ProjectNet\TESTASP\ASPPoliticalReview\obj\Debug\ASPPoliticalReview.csprojResolveAssemblyReference.cache
+E:\ProjectNet\TESTASP\ASPPoliticalReview\obj\Debug\ASPPoliticalReview.dll
+E:\ProjectNet\TESTASP\ASPPoliticalReview\obj\Debug\ASPPoliticalReview.pdb
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\DataLayer.dll
+E:\ProjectNet\TESTASP\ASPPoliticalReview\bin\DataLayer.pdb
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\ApplicationInsights.config
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\roslyn\csc.exe
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\roslyn\System.Collections.Immutable.dll
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\roslyn\System.Reflection.Metadata.dll
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\roslyn\vbc.exe
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\roslyn\VBCSCompiler.exe
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\roslyn\VBCSCompiler.exe.config
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\ASPPoliticalReview.dll.config
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\ASPPoliticalReview.dll
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\ASPPoliticalReview.pdb
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\DataLayer.dll
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.DependencyCollector.dll
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.Web.dll
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.WindowsServer.dll
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\Microsoft.ApplicationInsights.dll
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\DataLayer.pdb
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.DependencyCollector.xml
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.Web.xml
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.WindowsServer.xml
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\Microsoft.ApplicationInsights.xml
+C:\Work Area\TESTASP\ASPPoliticalReview\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Work Area\TESTASP\ASPPoliticalReview\obj\Debug\ASPPoliticalReview.csprojResolveAssemblyReference.cache
+C:\Work Area\TESTASP\ASPPoliticalReview\obj\Debug\ASPPoliticalReview.dll
+C:\Work Area\TESTASP\ASPPoliticalReview\obj\Debug\ASPPoliticalReview.pdb
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\ApplicationInsights.config
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\roslyn\csc.exe
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\roslyn\System.Collections.Immutable.dll
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\roslyn\System.Reflection.Metadata.dll
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\roslyn\vbc.exe
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\roslyn\VBCSCompiler.exe
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\roslyn\VBCSCompiler.exe.config
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\ASPPoliticalReview.dll.config
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\ASPPoliticalReview.dll
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\ASPPoliticalReview.pdb
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\DataLayer.dll
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.DependencyCollector.dll
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.Web.dll
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.WindowsServer.dll
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\Microsoft.ApplicationInsights.dll
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\DataLayer.pdb
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.DependencyCollector.xml
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.Web.xml
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\Microsoft.AI.WindowsServer.xml
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\Microsoft.ApplicationInsights.xml
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\obj\Debug\ASPPoliticalReview.csprojResolveAssemblyReference.cache
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\obj\Debug\ASPPoliticalReview.dll
+C:\Gena_ASPTutoring\TESTASP\ASPPoliticalReview\obj\Debug\ASPPoliticalReview.pdb

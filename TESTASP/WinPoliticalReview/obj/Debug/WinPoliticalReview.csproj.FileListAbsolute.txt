@@ -1,0 +1,22 @@
+E:\ProjectNet\TESTASP\WinPoliticalReview\bin\Debug\WinPoliticalReview.exe.config
+E:\ProjectNet\TESTASP\WinPoliticalReview\bin\Debug\WinPoliticalReview.exe
+E:\ProjectNet\TESTASP\WinPoliticalReview\bin\Debug\WinPoliticalReview.pdb
+E:\ProjectNet\TESTASP\WinPoliticalReview\obj\Debug\WinPoliticalReview.csprojResolveAssemblyReference.cache
+E:\ProjectNet\TESTASP\WinPoliticalReview\obj\Debug\WinPoliticalReview.Form1.resources
+E:\ProjectNet\TESTASP\WinPoliticalReview\obj\Debug\WinPoliticalReview.Properties.Resources.resources
+E:\ProjectNet\TESTASP\WinPoliticalReview\obj\Debug\WinPoliticalReview.csproj.GenerateResource.Cache
+E:\ProjectNet\TESTASP\WinPoliticalReview\obj\Debug\WinPoliticalReview.exe
+E:\ProjectNet\TESTASP\WinPoliticalReview\obj\Debug\WinPoliticalReview.pdb
+E:\ProjectNet\TESTASP\WinPoliticalReview\bin\Debug\DataLayer.dll
+E:\ProjectNet\TESTASP\WinPoliticalReview\bin\Debug\DataLayer.pdb
+C:\Work Area\TESTASP\WinPoliticalReview\bin\Debug\WinPoliticalReview.exe.config
+C:\Work Area\TESTASP\WinPoliticalReview\obj\Debug\WinPoliticalReview.exe
+C:\Work Area\TESTASP\WinPoliticalReview\obj\Debug\WinPoliticalReview.pdb
+C:\Work Area\TESTASP\WinPoliticalReview\bin\Debug\WinPoliticalReview.exe
+C:\Work Area\TESTASP\WinPoliticalReview\bin\Debug\WinPoliticalReview.pdb
+C:\Work Area\TESTASP\WinPoliticalReview\bin\Debug\DataLayer.dll
+C:\Work Area\TESTASP\WinPoliticalReview\bin\Debug\DataLayer.pdb
+C:\Work Area\TESTASP\WinPoliticalReview\obj\Debug\WinPoliticalReview.csprojResolveAssemblyReference.cache
+C:\Work Area\TESTASP\WinPoliticalReview\obj\Debug\WinPoliticalReview.Form1.resources
+C:\Work Area\TESTASP\WinPoliticalReview\obj\Debug\WinPoliticalReview.Properties.Resources.resources
+C:\Work Area\TESTASP\WinPoliticalReview\obj\Debug\WinPoliticalReview.csproj.GenerateResource.Cache

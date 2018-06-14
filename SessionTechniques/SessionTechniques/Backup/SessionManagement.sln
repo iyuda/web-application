@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\SessionManagement\", "SessionManagement\", "{B5FB10D4-76B2-46A9-9FEC-8C089E72ABEE}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/SessionManagement"
+		Debug.AspNetCompiler.PhysicalPath = "SessionManagement\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SessionManagement\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SessionManagement"
+		Release.AspNetCompiler.PhysicalPath = "SessionManagement\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SessionManagement\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2670"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\SqlServerState\", "SqlServerState\", "{446B895F-2983-4D78-BB73-146D1E5C7F60}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/SqlServerState"
+		Debug.AspNetCompiler.PhysicalPath = "SqlServerState\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SqlServerState\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SqlServerState"
+		Release.AspNetCompiler.PhysicalPath = "SqlServerState\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SqlServerState\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2672"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\stateserver\", "stateserver\", "{1BEFE976-B292-46B1-A673-A1F3BB56711B}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/stateserver"
+		Debug.AspNetCompiler.PhysicalPath = "stateserver\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\stateserver\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/stateserver"
+		Release.AspNetCompiler.PhysicalPath = "stateserver\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\stateserver\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2674"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5FB10D4-76B2-46A9-9FEC-8C089E72ABEE}.Debug|.NET.ActiveCfg = Debug|.NET
+		{B5FB10D4-76B2-46A9-9FEC-8C089E72ABEE}.Debug|.NET.Build.0 = Debug|.NET
+		{446B895F-2983-4D78-BB73-146D1E5C7F60}.Debug|.NET.ActiveCfg = Debug|.NET
+		{446B895F-2983-4D78-BB73-146D1E5C7F60}.Debug|.NET.Build.0 = Debug|.NET
+		{1BEFE976-B292-46B1-A673-A1F3BB56711B}.Debug|.NET.ActiveCfg = Debug|.NET
+		{1BEFE976-B292-46B1-A673-A1F3BB56711B}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

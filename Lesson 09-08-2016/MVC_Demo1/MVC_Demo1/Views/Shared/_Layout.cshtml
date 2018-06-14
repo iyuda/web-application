@@ -1,0 +1,100 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>@Page.Title</title>
+        <link href="~/Content/bootstrap.css" rel="stylesheet" />
+        <link href="~/Content/Site.css" rel="stylesheet" />
+        <script src="~/scripts/jquery-3.1.0.js"></script>
+        <script src="~/scripts/jquery-ui-1.12.0.js"></script>
+        <script src="~/scripts/spin.js"></script>
+        <link href="~/Content/Site.css" rel="stylesheet" />
+        <script src="~/scripts/paging.js"></script>
+        <script src="~/scripts/Notification/lobibox.js"></script>
+        <script src="~/scripts/Notification/messageboxes.js"></script>
+        <script src="~/scripts/Notification/notifications.js"></script>
+        <link href="~/Content/lobibox.css" rel="stylesheet" />
+        @RenderSection("head", required: false)
+
+        <script type="text/javascript">
+
+            var opts = {
+             lines: 12 // The number of lines to draw
+           , length: 20 // The length of each line
+           , width: 12 // The line thickness
+           , radius: 30 // The radius of the inner circle
+           , scale: 1 // Scales overall size of the spinner
+           , corners: 1 // Corner roundness (0..1)
+           , color: '#000' // #rgb or #rrggbb or array of colors
+           , opacity: 0.25 // Opacity of the lines
+           , rotate: 0 // The rotation offset
+           , direction: 1 // 1: clockwise, -1: counterclockwise
+           , speed: 1 // Rounds per second
+           , trail: 60 // Afterglow percentage
+           , fps: 20 // Frames per second when using setTimeout() as a fallback for CSS
+           , zIndex: 2e9 // The z-index (defaults to 2000000000)
+           , className: 'spinner' // The CSS class to assign to the spinner
+           , top: '50%' // Top position relative to parent
+           , left: '50%' // Left position relative to parent
+           , shadow: false // Whether to render a shadow
+           , hwaccel: false // Whether to use hardware acceleration
+           , position: 'absolute' // Element positioning
+            }
+
+            function get_browser_info() {
+                var ua = navigator.userAgent, tem, M = ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];
+                if (/trident/i.test(M[1])) {
+                    tem = /\brv[ :]+(\d+)/g.exec(ua) || [];
+                    return { name: 'IE', version: (tem[1] || '') };
+                }
+                if (M[1] === 'Chrome') {
+                    tem = ua.match(/\bOPR\/(\d+)/)
+                    if (tem != null) { return { name: 'Opera', version: tem[1] }; }
+                }
+                M = M[2] ? [M[1], M[2]] : [navigator.appName, navigator.appVersion, '-?'];
+                if ((tem = ua.match(/version\/(\d+)/i)) != null) { M.splice(1, 1, tem[1]); }
+                return {
+                    name: M[0],
+                    version: M[1]
+                };
+            }
+
+            function addCommas(nStr) {
+                nStr += '';
+                x = nStr.split('.');
+                x1 = x[0];
+                x2 = x.length > 1 ? '.' + x[1] : '';
+                var rgx = /(\d+)(\d{3})/;
+                while (rgx.test(x1)) {
+                    x1 = x1.replace(rgx, '$1' + ',' + '$2');
+                }
+                return x1 + x2;
+            }
+
+        </script>
+
+
+    </head>
+    <body>
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header" style="color:white">
+                    <h2>Adventure Works-Today (@DateTime.Today.ToString("MM/dd/yyyy"))</h2>
+                </div>
+            </div>
+            <div class="navbar-left">
+                <ul class="nav navbar-nav" style="padding-left:25px; color:white">
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("Personnel Info Database", "Index", "Person")</li>
+                </ul>
+            </div>
+        </div>
+        <div class="body-content" id="body">
+            @RenderBody()
+            <hr />
+            <footer style="padding-left:30px;">
+                <p>&copy;Copyright Adventure Works Inc. -  @DateTime.Now.Year</p>
+            </footer>
+        </div>
+    </body>
+    
+</html>

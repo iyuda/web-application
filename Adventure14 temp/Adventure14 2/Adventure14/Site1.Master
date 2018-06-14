@@ -1,0 +1,53 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Adventure14.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Adventure Works</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="Styles/Site.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <table style="width: 100%;">
+            <tr>              
+                <td class="TopHeader"><img alt="AdventureWorks" src="Images/LogoAW.png" width="100" height="40" />&nbsp;&nbsp; Adventure Works LTD.</td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:Menu ID="topMenu" runat="server" DataSourceID="MenuTop"  Orientation="Horizontal" BackColor="#FFFBD6" DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="14px" ForeColor="#990000" StaticSubMenuIndent="10px">
+                        <DynamicHoverStyle BackColor="#990000" ForeColor="White" />
+                        <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                        <DynamicMenuStyle BackColor="#FFFBD6" />
+                        <DynamicSelectedStyle BackColor="#FFCC66" />
+                        <StaticHoverStyle BackColor="#990000" ForeColor="White" />
+                        <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                        <StaticSelectedStyle BackColor="#FFCC66" />
+                    </asp:Menu>
+                    <asp:SiteMapDataSource ID="MenuTop" runat="server"  />
+
+                </td>
+                
+            </tr>
+            <tr>
+                <td align="center">
+                    <div class="containerBig">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td id="tdFooter" class="footer" runat="server"></td>
+            </tr>
+        </table>
+    
+
+
+    </form>
+</body>
+</html>

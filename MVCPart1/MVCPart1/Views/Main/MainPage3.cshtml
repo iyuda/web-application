@@ -1,0 +1,27 @@
+﻿@model List<MVCPart1.Models.Person>
+
+@{
+    ViewBag.Title = "MVC Part 2";
+}
+
+<br />
+<h2>MainPage3</h2>
+<br />
+<table style="width:auto;" class="table table-hover">
+    <tr>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Sex</th>
+        <th>Color</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Age</td>
+            <td>@item.Sex</td>
+            <td>@item.SkinColor</td>
+        </tr>
+    }
+</table>
+

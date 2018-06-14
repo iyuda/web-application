@@ -1,0 +1,65 @@
+﻿body {
+    padding-top: 55px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.controlCell{
+    padding:5px;
+    text-align:left;
+}
+.lableHeader{
+    font-family:Arial;
+    font-size:12px;
+    font-weight:700;
+    padding:5px;
+}
+.countCell{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:14px;
+    padding-right:10px;
+    color:darkgreen;
+    font-weight:600;
+}
+
+
+
+
+/*--Paging Style--*/
+.paging-nav { 
+  text-align: right; 
+  padding-top: 2px;  
+} 
+.paging-nav a { 
+  margin: auto 1px; 
+  text-decoration: none; 
+  display: inline-block; 
+  padding: 1px 7px; 
+  background: #91b9e6; 
+  color: white; 
+  border-radius: 3px; 
+} 
+.paging-nav .selected-page { 
+  background: #187ed5; 
+  font-weight: bold;  
+} 
+

@@ -1,0 +1,11 @@
+E:\ProjectNet\MVC_Demo1\DemoDataLayer\bin\Debug\DemoDataLayer.dll
+E:\ProjectNet\MVC_Demo1\DemoDataLayer\bin\Debug\DemoDataLayer.pdb
+E:\ProjectNet\MVC_Demo1\DemoDataLayer\obj\Debug\DemoDataLayer.dll
+E:\ProjectNet\MVC_Demo1\DemoDataLayer\obj\Debug\DemoDataLayer.pdb
+E:\ProjectNet\MVC_Demo1\DemoDataLayer\bin\Debug\DemoDataLayer.dll.config
+C:\Gena_ASPTutoring\Lesson 09-08-2016\MVC_Demo1\DemoDataLayer\bin\Debug\DemoDataLayer.dll.config
+C:\Gena_ASPTutoring\Lesson 09-08-2016\MVC_Demo1\DemoDataLayer\bin\Debug\DemoDataLayer.dll
+C:\Gena_ASPTutoring\Lesson 09-08-2016\MVC_Demo1\DemoDataLayer\bin\Debug\DemoDataLayer.pdb
+C:\Gena_ASPTutoring\Lesson 09-08-2016\MVC_Demo1\DemoDataLayer\obj\Debug\DemoDataLayer.csprojResolveAssemblyReference.cache
+C:\Gena_ASPTutoring\Lesson 09-08-2016\MVC_Demo1\DemoDataLayer\obj\Debug\DemoDataLayer.dll
+C:\Gena_ASPTutoring\Lesson 09-08-2016\MVC_Demo1\DemoDataLayer\obj\Debug\DemoDataLayer.pdb
